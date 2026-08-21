@@ -17,8 +17,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ```
 
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: R . NITHISH AADITIYAA
-RegisterNumber:  25011876
+Developed by: MOHAMED SAUDH R
+RegisterNumber:  25011649
 
 ```
 ```
